@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "directUrl.jpg",
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "GroupName": "/proxy/api/imgur/chapter/imgurID/"
+      },
+      "last_updated": "1633718944"
+    },
+    "2": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "GroupName": "/proxy/api/imgur/chapter/imgurID/"
+      },
+      "last_updated": "1633718981"
+    },
+    
+  }
+}
